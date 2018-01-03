@@ -79,6 +79,7 @@ void setup(void) {
     difficulty=2;
   }
 }
+
 //Loop method - runs repeatedly until game is over
 void loop(void) {
   //Setting initial score and time to 0
